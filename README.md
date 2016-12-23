@@ -5,11 +5,13 @@
 ## Installation
 
 Clone the project using git
+<br>
 <code>
 $ git clone git@github.com:razielt10/statusAPI
 </code>
 
 Update repositories
+<br>
 <code>
 $ composer update
 </code>
