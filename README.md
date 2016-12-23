@@ -20,7 +20,8 @@ Create the database using file database.sql
 
 ## Configuration
 
-Read and edit `config/app.php` 
+Read and edit `config/app.php` and setup the 'Datasources' to set the configuration to your database,
+and 'EmailTransport' to your mail server, documentation in [cake book](http://book.cakephp.org/3.0/en/index.html) 
  
 # Based on CakePHP Application Skeleton
 
@@ -31,12 +32,5 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 ## Installation
 
 1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
 
 You should now be able to visit the path to where you installed the app and see the default home page.
-
-## Configuration
-
-Read and edit `config/app.php` and setup the 'Datasources' to set the configuration to your database,
-and 'EmailTransport' to your mail server, documentation in [cake book](http://book.cakephp.org/3.0/en/index.html)
-
