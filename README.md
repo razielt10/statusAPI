@@ -35,7 +35,15 @@ The API must be run in http://localhost:8765/
 
 ## Using the API
 
-Read the documentation in RAML format, file StatusAPI.raml
+Read the documentation in RAML format, file StatusAPI.raml.
+
+Can be use by any REST Client, we recommend use [Insomnia REST](https://insomnia.rest/documentation/).
+
+## Logs and Errors
+
+The errors and debug logging are based on CakePhp Core, documentation [Logging CakePhp](http://book.cakephp.org/3.0/en/core-libraries/logging.html).
+
+These files are located in logs/ and there are debug.log and error.log
 
 # Based on CakePHP Application Skeleton
 
