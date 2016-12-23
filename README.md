@@ -28,9 +28,3 @@ and 'EmailTransport' to your mail server, documentation in [cake book](http://bo
 A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
-
-## Installation
-
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-
-You should now be able to visit the path to where you installed the app and see the default home page.
