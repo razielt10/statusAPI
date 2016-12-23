@@ -3,20 +3,24 @@
  list of this messagess (Get) or an message by id, delete a message using a email confirmation.
  
 ## Installation
+
+Clone the project using git
 <code>
-hola
+$ git clone git@github.com:razielt10/statusAPI
 </code>
 
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
+Update repositories
+<code>
+$ composer update
+</code>
 
-You should now be able to visit the path to where you installed the app and see the default home page.
+Create the database using file database.sql
 
 ## Configuration
 
 Read and edit `config/app.php` 
  
-# Based CakePHP Application Skeleton
+# Based on CakePHP Application Skeleton
 
 A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
 
