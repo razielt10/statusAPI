@@ -1,6 +1,16 @@
 # statusAPI
+
  Web Service in CakePhp 3.x, Managing short messages using Json to publish (Post), obtain
  list of this messagess (Get) or an message by id, delete a message using a email confirmation.
+ 
+## Requirements
+
+HTTP Server. For example: Apache. Having mod_rewrite is preferred, but by no means required.
+PHP 5.5.9 or greater (including PHP 7).
+mbstring PHP extension
+intl PHP extension
+
+More documentation in [CakePhp Book](http://book.cakephp.org/3.0/en/installation.html)
  
 ## Installation
 
