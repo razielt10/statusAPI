@@ -5,10 +5,10 @@
  
 ## Requirements
 
-HTTP Server. For example: Apache. Having mod_rewrite is preferred, but by no means required.
-PHP 5.5.9 or greater (including PHP 7).
-mbstring PHP extension
-intl PHP extension
+HTTP Server. For example: Apache. Having mod_rewrite is preferred, but by no means required.<br>
+PHP 5.5.9 or greater (including PHP 7).<br>
+mbstring PHP extension.<br>
+intl PHP extension.<br>
 
 More documentation in [CakePhp Book](http://book.cakephp.org/3.0/en/installation.html)
  
