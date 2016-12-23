@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
@@ -23,3 +24,8 @@ You should now be able to visit the path to where you installed the app and see 
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+=======
+# statusAPI
+Web Service in CakePhp 3.x, Managing short messages using Json to publish (Post), obtain list of this messagess (Get) or an message by id, delete a message using a email confirmation.
+
+>>>>>>> ad7f5c57dd3598ee904c47d4adb81c935919a71f
